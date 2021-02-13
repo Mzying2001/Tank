@@ -4747,7 +4747,7 @@ GameObject:
   - component: {fileID: 486730}
   - component: {fileID: 19807510}
   - component: {fileID: 19960184}
-  - component: {fileID: 733530992284179570}
+  - component: {fileID: 4873583724257852667}
   m_Layer: 0
   m_Name: ShellExplosion
   m_TagString: Untagged
@@ -9533,7 +9533,7 @@ ParticleSystemRenderer:
   m_Mesh2: {fileID: 0}
   m_Mesh3: {fileID: 0}
   m_MaskInteraction: 0
---- !u!114 &733530992284179570
+--- !u!114 &4873583724257852667
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -9545,6 +9545,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4e471bd3c2851d842a6d7395e71c6817, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  time: 1.5
 --- !u!1 &199372
 GameObject:
   m_ObjectHideFlags: 0
